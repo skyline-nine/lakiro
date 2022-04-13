@@ -1,0 +1,6 @@
+body {
+    font-family: arial, helvetica, sans-serif;
+    background-image: url('public/images/Background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
